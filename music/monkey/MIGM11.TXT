@@ -1,0 +1,43 @@
+                            QUEST STUIDOS
+                      SOFTWARE SOUNDTRACK SERIES
+          ====================================================
+                      THE SECRET OF MONKEY ISLAND
+                                                          
+
+                              THE JOURNEY
+                            Michael Z. Land
+          ====================================================
+              Copyright (c)1989 LucasArts Entertainment Co.
+          ====================================================
+
+                         GENERAL MIDI VERSION
+
+System Requirements:
+
+- MIDI Playback Software capable of reading Type 1 Standard
+    MIDI File format
+- General MIDI sound device (Wave Table or better recommended)
+
+
+This Standard MIDI File was recorded directly from LucasArts Entertainment's
+"The Secret of Monkey Island" adventure game.  It has been converted from the
+MT-32 version for playback on General MIDI sound cards.  A Wave Table or
+better sound card is highly recommended for optimal playback.
+
+Reocorded/Converted to General MIDI format by Tom Lewandowski.
+Address questions or comments to:
+
+     QUEST STUDIOS
+     Tom Lewandowski
+     tom@queststudios.com
+
+
+   
+        QUEST STUDIOS/THE ROLAND MT-32 SOUND MODULE RESOURCE CENTER
+        THE SIERRA SOUNDTRACK SERIES/THE SOFTWARE SOUNDTRACK SERIES
+                           www.QuestStudios.com
+
+
+
+
+                           

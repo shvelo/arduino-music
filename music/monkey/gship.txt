@@ -1,0 +1,11 @@
+"Ghost Ship Theme" (c) Lucasarts Entertainment Company
+
+arranged by Peter Silk
+
+This is the msic you hear while invisible on Lechuck's ship.
+I have tested it on the SB AWE32 and it sounds good, and 
+the yamaha DBXG50 card and it sounds great.
+Enjoy.
+Note: this is in no way an original tune, so if you like the TUNE
+don't go complimenting me. If you like the arrangement, THEN compliment 
+me

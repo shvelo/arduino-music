@@ -1,0 +1,43 @@
+                             QUEST STUIDOS
+                      SOFTWARE SOUNDTRACK SERIES
+          ====================================================
+                 MONKEY ISLAND 2:  LeCHUCK'S REVENGE
+                                                          
+
+                                THE END
+          Michael Z. Land, Peter McConnell, and Clint Bajakian
+          ====================================================
+              Copyright (c)1991 LucasArts Entertainment Co.
+          ====================================================
+
+                    FOR THE MT-32 and GENERAL MIDI
+
+System Requirements:
+
+- MIDI Playback Software capable of reading Type 1 Standard
+    MIDI File format
+- Roland MT-32, CM-32L, CM-64, LAPC-1, or General MIDI sound device  
+- MPU-401 compatible MIDI interface
+  (Not required for LAPC-1 and General MIDI users.)
+
+
+
+This Standard MIDI File was recorded directly from LucasFilm Game's
+"Monkey Island 2" adventure game.  It can be played 'as is' on General MIDI
+sound cards.  Roland MT-32 users will need to change the Program number used
+on MIDI Channel 3 from 78 to 109 (Whistle Timbre.)
+
+Recorded/Converted to Type 1 Standard MIDI File format by Tom Lewandowski.
+Address questions or comments to:
+
+     Tom Lewandowski
+     tom@queststudios.com
+
+
+   
+        QUEST STUDIOS/THE ROLAND MT-32 SOUND MODULE RESOURCE CENTER
+                    THE SIERRA SOUNDTRACK SERIES
+                        www.QuestStudios.com
+
+
+                           

@@ -1,0 +1,42 @@
+                            QUEST STUIDOS
+                      SOFTWARE SOUNDTRACK SERIES
+          ====================================================
+                      THE SECRET OF MONKEY ISLAND
+                                                          
+
+                             THE CARNIVAL
+                            Michael Z. Land
+          ====================================================
+              Copyright (c)1990 LucasArts Entertainment Co.
+          ====================================================
+
+
+System Requirements:
+
+- MIDI Playback Software capable of reading Type 1 Standard
+    MIDI File format
+- Roland MT-32, CM-32L, CM-64, or LAPC-1
+- MPU-401 compatible MIDI interface
+  (Not required for LAPC-1 users.)
+
+
+
+This Standard MIDI File was recorded directly from LucasFilm Game's
+"The Secret of Monkey Island" adventure game.  The file uses the MT-32's
+default timbres.  No patch bank is required.
+
+Converted to Type 1 Standard MIDI File format by Tom Lewandowski.
+Address questions or comments to:
+
+     QUEST STUDIOS
+     Tom Lewandowski
+     tom+di@netnet.net
+
+
+   
+             THE ROLAND MT-32 SOUND MODULE RESOURCE CENTER
+        THE SIERRA SOUNDTRACK SERIES/SOFTWARE SOUNDTRACK SERIES
+             http://bayland.net/~tom+di/quest/sierra.html
+
+
+                           

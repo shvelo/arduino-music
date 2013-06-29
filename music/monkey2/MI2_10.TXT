@@ -1,0 +1,45 @@
+                            QUEST STUIDOS
+                      SOFTWARE SOUNDTRACK SERIES
+          ====================================================
+                 MONKEY ISLAND 2:  LeCHUCK'S REVENGE
+                                                          
+
+                         "JOJO THE MONKEY"
+                         Performed by Jojo
+                                with
+          Michael Z. Land, Peter McConnell, and Clint Bajakian
+          ====================================================
+              Copyright (c)1991 LucasArts Entertainment Co.
+          ====================================================
+
+                 GENERAL MIDI and MT-32 VERSION
+
+
+
+System Requirements:
+
+- MIDI Playback Software capable of reading Type 1 Standard
+    MIDI File format
+- General MIDI sound device  (Wave Table recommended.)
+
+
+This Standard MIDI File was recorded directly from LucasArts Entertainment's
+"Monkey Island 2" adventure game.  It is designed for playback on both
+the MT-32 and General MIDI devices.  MT-32 users will need to set the
+patch on Channel 2 for "Honkey Tonk" piano, patch #7.
+
+Recorded/Converted to Type 1 Standard MIDI File format by Tom Lewandowski.
+Address questions or comments to:
+
+     QUEST STUDIOS
+     Tom Lewandowski
+     tom@queststudios.com
+
+
+   
+        QUEST STUDIOS/THE ROLAND MT-32 SOUND MODULE RESOURCE CENTER
+        THE SIERRA SOUNDTRACK SERIES/THE SOFTWARE SOUNDTRACK SERIES
+                          www.QuestStudios.com
+
+
+                           

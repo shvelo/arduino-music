@@ -1,0 +1,38 @@
+                            QUEST STUIDOS
+                      SOFTWARE SOUNDTRACK SERIES
+          ====================================================
+                 MONKEY ISLAND 2:  LeCHUCK'S REVENGE
+                                                          
+
+                         "PHATT ISLAND MAP"
+          Michael Z. Land, Peter McConnell, and Clint Bajakian
+          ====================================================
+              Copyright (c)1991 LucasArts Entertainment Co.
+          ====================================================
+
+               G E N E R A L   M I D I   V E R S I O N
+
+
+System Requirements:
+
+- MIDI Playback Software capable of reading Type 1 Standard
+    MIDI File format
+- General MIDI sound device  (Wave Table or better recommended)
+
+
+This Standard MIDI File was recorded directly from LucasArts' "Monkey
+Island 2" adventure game.  It has been converted from the MT-32
+version for playback on General MIDI sound cards.  A Wave Table or
+better sound card is highly recommended for optimal playback.
+
+Recorded/Converted for General MIDI by Tom Lewandowski.
+Address questions or comments to:
+
+     Tom Lewandowski
+     tom@queststudios.com
+
+
+   
+                  QUEST STUDIOS
+               www.QuestStudios.com
+                           
