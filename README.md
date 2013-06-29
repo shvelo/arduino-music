@@ -5,7 +5,7 @@ Generator currently works with Windows.
 Copy the `Playtune` folder from `libraries` to your Arduino `libraries` folder.
 
 Generating a sketch:   
-    ruby generate.rb file.mid
+`ruby generate.rb file.mid`
 
 This will make a directory with the sketch in it, just open with Arduino IDE and upload.
 
