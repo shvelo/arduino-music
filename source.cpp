@@ -12,19 +12,20 @@
 
 #include <Playtune.h>
 
-!!MELODY!!
+const !!MELODY!!
 
 Playtune pt;
 
 int val;
 
 void setup() {
+  // Enable pins
   pt.tune_initchan (5);
   pt.tune_initchan (6);
-  pt.tune_initchan (7);
-  pt.tune_initchan (8);
-  pt.tune_initchan (9);
-  pt.tune_initchan (10);
+  //pt.tune_initchan (7);
+  //pt.tune_initchan (8);
+  //pt.tune_initchan (9);
+  //pt.tune_initchan (10);
 }
 
 void loop () {
