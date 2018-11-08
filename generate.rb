@@ -1,22 +1,25 @@
 #!/usr/bin/env ruby
 
+require 'fileutils'
+
 exit 0 if ARGV.length < 1
 
-file = File.basename ARGV[0], ".mid"
+file = ARGV[0]
+basename = File.basename(file, '.mid')
+dirname = File.dirname file
 
-system "./miditones -t3 \"#{file}\""
+system "./miditones -t3 \"#{dirname}/#{basename}\""
 
+melody = File.read "#{dirname}/#{basename}.c"
 
-melody = File.read "#{file}.c"
-
-source = File.read "source.cpp"
+source = File.read "./source.cpp"
 
 source['!!MELODY!!'] = melody
 
-outfile = file.gsub(/[^A-Za-z0-9_]*/, "")
+FileUtils::mkdir_p "./generated/#{basename}"
+FileUtils::cp("./playtune/Playtune.cpp", "./generated/#{basename}/")
+FileUtils::cp("./playtune/Playtune.h", "./generated/#{basename}/")
 
-Dir.mkdir "#{outfile}"
-
-File.open("#{outfile}/#{outfile}.ino", "w") { |io|
+File.open("./generated/#{basename}/#{basename}.ino", "w") { |io|
 	io.write source
 }

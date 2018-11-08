@@ -10,9 +10,9 @@
 //**************************************************
 
 
-#include <Playtune.h>
+#include "Playtune.h"
 
-const !!MELODY!!
+!!MELODY!!
 
 Playtune pt;
 

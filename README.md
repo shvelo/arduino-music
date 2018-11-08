@@ -1,8 +1,10 @@
 Arduino Music
 ===
 
-Generator currently works with Windows.
-Copy the `Playtune` folder from `libraries` to your Arduino `libraries` folder.
+## Installing
+
+- Clone this repository recursively with `git clone --recursive https://github.com/shvelo/arduino-music.git`
+- Run `make` to rebuild `miditones` for your system
 
 ## Generating a sketch
 `ruby generate.rb file.mid`
@@ -17,6 +19,6 @@ This will make a directory with the sketch in it, just open with Arduino IDE and
     you should DC-isolate the signal using a capacitor.
 
 
-## Includes
-PlayTune from https://code.google.com/p/arduino-playtune/   
-MidiTones from https://code.google.com/p/miditones/
+## Uses libraries from LenShustek
+PlayTune from https://github.com/LenShustek/arduino-playtune   
+MidiTones from https://github.com/LenShustek/miditones
